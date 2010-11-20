@@ -1,3 +1,8 @@
 Testando o tiny_mce
 
-Github: https://github.com/kete/tiny_mce
+Projetos usados
+
+tiny_mce:         https://github.com/kete/tiny_mce
+nifty_generators: https://github.com/ryanb/nifty-generators
+slim:             https://github.com/stonean/slim (Achei mais prático que o HAML)
+slim-rails:       https://github.com/leogalmeida/slim-rails.git (generators para o Slim)

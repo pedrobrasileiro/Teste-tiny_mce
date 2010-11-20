@@ -1,6 +1,9 @@
 class ProdutosController < ApplicationController
   # GET /produtos
   # GET /produtos.xml
+  
+  uses_tiny_mce
+  
   def index
     @produtos = Produto.all
 
