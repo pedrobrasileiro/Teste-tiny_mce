@@ -9,6 +9,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'tiny_mce'
 gem 'slim'
 gem 'slim-rails', require: 'slim/rails'
+gem "nifty-generators"
 
 # Use unicorn as the web server
 # gem 'unicorn'
