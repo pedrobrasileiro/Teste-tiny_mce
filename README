@@ -6,3 +6,16 @@ tiny_mce:         https://github.com/kete/tiny_mce
 nifty_generators: https://github.com/ryanb/nifty-generators
 slim:             https://github.com/stonean/slim (Achei mais prático que o HAML)
 slim-rails:       https://github.com/leogalmeida/slim-rails.git (generators para o Slim)
+
+
+Passos para exibir o teste
+
+1 - gem install bundler
+2 - bundle install
+3 - rake db:create
+4 - rake db:migrate
+5 - rails s 
+
+O campo descrição do produto está com o tiny_mce.
+
+É isso
